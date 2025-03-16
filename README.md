@@ -32,5 +32,16 @@ Currently there are two main operations.
   1. Create N number of random users with First Name, Last Name, Gender, Age, and the customized Email based on their features and then save it as a CSV file.
   2. Create an Email based on features that users give as input to the code.
 
+     ### The Email Template:
+          a) Subject Line --> Uses Name
+          b) Greeting Line --> Uses Full Name
+          c) Introduction --> Uses Gender
+          d) Main Message --> Uses Age Group
+          e) Limited Offer --> Uses Customer Type
+          f) Call To Action
+          g) Closing Line
+          h) Regards
+          I) Footer
+
 ## Conclusion
 This project highlights the importance of personalization in modern marketing strategies. By combining Python’s powerful libraries and a thoughtful understanding of customer needs, this script provides an efficient way to create engaging marketing emails. The insights gained from this project pave the way for further enhancements and innovations in email marketing.
